@@ -2,7 +2,7 @@
 name = "two-process-model"
 group = "org.vibevm.world"
 kind = "flow"
-version = "1.0.0"
+version = "1.0.12"
 epoch = 1
 format = "normal"
 authors = ["Oleg Chirukhin"]
